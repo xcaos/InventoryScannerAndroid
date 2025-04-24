@@ -1,0 +1,42 @@
+{
+  "inventoryLists": [
+    {
+      "id": "warehouse-a",
+      "name": "Warehouse A Inventory",
+      "description": "Main warehouse inventory list",
+      "items": [
+        {
+          "articleNumber": "12345",
+          "description": "Red Widget Type A",
+          "expectedQuantity": 100,
+          "imagePath": "widget_a"
+        },
+        {
+          "articleNumber": "67890",
+          "description": "Blue Widget Type B",
+          "expectedQuantity": 50,
+          "imagePath": "widget_b"
+        }
+      ]
+    },
+    {
+      "id": "warehouse-b",
+      "name": "Warehouse B Inventory",
+      "description": "Secondary warehouse inventory list",
+      "items": [
+        {
+          "articleNumber": "11111",
+          "description": "Green Widget Type C",
+          "expectedQuantity": 75,
+          "imagePath": "widget_c"
+        },
+        {
+          "articleNumber": "22222",
+          "description": "Yellow Widget Type D",
+          "expectedQuantity": 25,
+          "imagePath": "widget_d"
+        }
+      ]
+    }
+  ]
+} 
