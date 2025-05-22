@@ -1,4 +1,4 @@
-# Inventory Scanner Android
+# Inventory Scanner Android.
 
 A React Native application for managing and tracking inventory through barcode scanning. This app helps warehouse staff perform inventory checks by scanning items and comparing them against expected quantities.
 
